@@ -105,7 +105,8 @@ For example, let's assume we have next Android partitions on eMMC:
 
 Then next command sequence can be used to boot Android:
 
-.. code-block:: bash
+.. code-block:: bash 
+   r
 
     => mmc dev 1
 
